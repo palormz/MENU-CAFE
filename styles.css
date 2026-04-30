@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #ffd6e0, #d6f0ff, #d6ffd6);
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #ff69b4;
+}
+
+h2 {
+    color: #4a90e2;
+}
+
+label {
+    display: block;
+    margin: 8px;
+    font-size: 18px;
+    color: #2e8b57;
+}
+
+button {
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #4a90e2;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #2e8b57;
+}
